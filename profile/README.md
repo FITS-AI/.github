@@ -39,7 +39,7 @@ Our work spans multiple departments, each contributing to our mission of healthi
 - **[Grades Classifier Model](https://github.com/FITS-AI/Machine_Learning_3)**: A machine learning model for assigning health grades (A–D) to products.
 - **[LLM Model](https://github.com/FITS-AI/machine_learning_llm)**: A large language model for analyzing and generating insights related to food products.
 
-Explore all our repositories [here](https://github.com/FITS-AI).
+Explore all our repositories [here](https://github.com/orgs/FITS-AI/repositories).
 
 <br>
 
