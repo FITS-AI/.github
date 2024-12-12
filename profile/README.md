@@ -11,7 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Innovating+for+a+Smarter+Tomorrow;Empowering+Health+through+Smart+Scans" alt="Typing SVG">
 </p>
 
----
 
 ## 🌟 About Us
 At **FITS AI**, we aim to empower healthier food choices by providing:
@@ -23,8 +22,6 @@ Our mission is to support healthier lifestyles through transparency and technolo
 
 Learn more on our [project plans](https://docs.google.com/document/d/1tLQroXQbzkVgbwAPl521GamCYQBAWbr3Jb47J3KF__g/edit?usp=sharing).
 
-
----
 
 ## 👨‍💻 Projects
 Our work spans multiple departments, each contributing to our mission of healthier food choices:
@@ -44,8 +41,6 @@ Our work spans multiple departments, each contributing to our mission of healthi
 Explore all our repositories [here](https://github.com/FITS-AI).
 
 
----
-
 ## 👥 Our Teams
 We are a dedicated group of learners and developers passionate about creating impactful solutions. Meet our team members:
 
@@ -60,7 +55,6 @@ We are a dedicated group of learners and developers passionate about creating im
 
 Feel free to explore our repositories and projects for more insight into our work!
 
----
 
 ## 🛠️ Tech Stack
 Our projects are built using a diverse range of tools and technologies tailored to each department:
