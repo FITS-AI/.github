@@ -110,7 +110,6 @@ Our projects are built using a diverse range of tools and technologies tailored 
 This project is licensed under the [MIT License](https://github.com/your-org/your-repo/blob/main/LICENSE). -->
 
 ---
-<br>
 Special thanks to our team and the open-source community for inspiration and support.  
 Built with ❤️ using cutting-edge technologies.
 
