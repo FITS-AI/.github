@@ -1,6 +1,6 @@
 <!-- Organization Logo -->
 <p align="center">
-  <img src="./profile/assets/logo.png" alt="Organization Logo" width="200">
+  <img src="./assets/logo.png" alt="Organization Logo" width="200">
 </p>
 
 <!-- Organization Name -->
