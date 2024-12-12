@@ -83,8 +83,10 @@ Our projects are built using a diverse range of tools and technologies tailored 
   - GitHub (Version Control System & Workflow)
 - **Programming & Frameworks**:
   - JavaScript (Programming Language for API)
+  - Python (Programming Language for LLM API)
   - NodeJS (JavaScript Runtime Environment)
   - Express (Framework to build REST API)
+  - FastAPI (Framework to build REST API w/ Python)
 - **Text Editor**: Visual Studio Code
 
 ### 🤖 Machine Learning
