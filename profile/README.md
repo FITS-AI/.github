@@ -92,16 +92,20 @@ Our projects are built using a diverse range of tools and technologies tailored 
 ### 🤖 Machine Learning
 - **Programming Environment**: 
   - Visual Studio Code
+  - Google Colab
   - Jupyter Notebook
 - **Programming Language**: Python
 - **Libraries & Frameworks**:
   - TensorFlow
+  - CV (Computer Vision)
+  - Keras (For Building Model)
   - TFLite
   - PyTorch
-  - Transformers
+  - Transformers (Large Language Model)
 - **Hardware Acceleration**:
-  - CUDA
-  - cuDNN
+  - CUDA (parallel GPU computing to achieve faster prosessing)
+  - cuDNN (Library for optimize Deep Learning)
+  - TensorRT (high-performance Deep Learning inference engine) 
 
 <!-- <br> -->
 
