@@ -103,9 +103,9 @@ Our projects are built using a diverse range of tools and technologies tailored 
   - PyTorch
   - Transformers (Large Language Model)
 - **Hardware Acceleration**:
-  - CUDA (parallel GPU computing to achieve faster prosessing)
+  - CUDA (Parallel GPU Computing to achieve faster prosessing)
   - cuDNN (Library for optimize Deep Learning)
-  - TensorRT (high-performance Deep Learning inference engine) 
+  - TensorRT (High-performance Deep Learning inference Engine) 
 
 <!-- <br> -->
 
