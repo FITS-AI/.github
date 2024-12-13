@@ -35,7 +35,7 @@ Our work spans multiple departments, each contributing to our mission of healthi
 - **[LLM Model API](https://github.com/FITS-AI/machine_learning_llm)** *(Collaborative with Machine Learning)*: Deployment and API development for the LLM model on Google Cloud Run.
 
 ### 🤖 Machine Learning
-- **[OCR Model](https://github.com/FITS-AI/Machine_Learning_OCR)**: Optical Character Recognition (OCR) to extract product information from packaging.
+- **[Bounding Box Model](https://github.com/FITS-AI/Machine_Learning_OCR)**: A Model for Object Detection to identify and locate nutrition facts table.
 - **[Grades Classifier Model](https://github.com/FITS-AI/Machine_Learning_3)**: A machine learning model for assigning health grades (A–D) to products.
 - **[LLM Model](https://github.com/FITS-AI/machine_learning_llm)**: A large language model for analyzing and generating insights related to food products.
 
